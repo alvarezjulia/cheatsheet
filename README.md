@@ -12,3 +12,14 @@
 - [ ] 1.7 - Rotate Matrix
 - [ ] 1.8 - Zero Matrix
 - [ ] 1.9 - String Rotation 
+
+#### Chapter 2 
+- [x] 2.1 - Remove Dups https://replit.com/@alvarezjulia23/21-removeDups
+- [ ] 2.2 - Return Kth to Last
+- [ ] 2.3 - Delete Middle Node
+- [ ] 2.4 - Partition
+- [ ] 2.5 - Sum Lists
+- [ ] 2.6 - Palindrome
+- [ ] 2.7 - Intersection
+- [ ] 2.8 - Loop Detection
+
