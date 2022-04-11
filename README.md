@@ -24,8 +24,8 @@
 - [ ] 2.8 - Loop Detection
 
 #### Chapter 3 
-- [x] 3.1 - Three in One https://replit.com/@alvarezjulia23/31-threeInOne 
-- [x] 3.2 - Stack Min https://replit.com/@alvarezjulia23/32-stackMin
+- [x] 3.1 - *Review, one function for all* Three in One  https://replit.com/@alvarezjulia23/31-threeInOne 
+- [x] 3.2 - *Review, do not reorganize stack* Stack Min https://replit.com/@alvarezjulia23/32-stackMin
 - [ ] 3.3 - Stack of Plates
 - [ ] 3.4 - Queue via Stacks
 - [ ] 3.5 - Sort Stack
